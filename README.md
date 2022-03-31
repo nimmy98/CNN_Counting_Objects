@@ -14,4 +14,3 @@ in the for loops using ".batch(NUMBER)" on line 15-22.
 
 
 To use the data generation code, also install scikit-image, numpy, and matplotlib with pip.
-![image](https://user-images.githubusercontent.com/25381992/157581651-e32c97b2-415e-4f66-b40e-0fa002d2d076.png)
